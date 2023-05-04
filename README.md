@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Eugen
 #### I am Junior Front-end developer
-I learn something new every day. I do projects for myself and also for freelancing. I am a 3nd year student of the university majoring in computer science
+I learn something new every day. I do projects for myself and also for freelancing. I am a 4nd year student of the university majoring in computer science
 
 Skills: React/ JS / HTML / CSS
 
