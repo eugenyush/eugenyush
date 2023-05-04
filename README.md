@@ -10,7 +10,7 @@ I am studying in the direction of web development. I do projects for myself and 
 JavaSrcript
 
 ###### Frameworks & Libraries
-Rect VueJs
+React VueJs
 
 ###### Databases
 MySQL
