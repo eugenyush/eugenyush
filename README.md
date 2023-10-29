@@ -3,18 +3,13 @@
 ##### About me
 My name is Eugen.I'm a 23 y.o.
 I am studying in the direction of web development. I do projects for myself and also for freelancing. I am a 4nd year student of the university majoring in computer science.
-
 ##### Skills
-
 ###### Languages
-JavaSrcript
-
+JavaSrcript C#
 ###### Frameworks & Libraries
 React VueJs
-
 ###### Databases
 MySQL
-
 ###### Other stuff
 Webpack
 
