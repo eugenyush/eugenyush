@@ -28,10 +28,6 @@ A simple employee management system that enables adding, deleting, and updating 
 ### [Rock Paper Scissors](https://github.com/eugenyush/RockPaperScissors)
 A classic "Rock, Paper, Scissors" game built with JavaScript, HTML, and CSS. The game allows users to play against a computer and keeps track of the score.
 
-## 📈 GitHub Stats
-
-![Eugen's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugenyush&show_icons=true&theme=radical)
-
 ## 🔗 Let's Connect
 
 - **GitHub**: [eugenyush](https://github.com/eugenyush)
