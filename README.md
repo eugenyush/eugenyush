@@ -1,16 +1,13 @@
 # Eugen Yushkevich - Software Engineer
 
-Hello! I'm **Eugen Yushkevich**, a passionate Software Engineer with experience in building dynamic and responsive web applications using modern technologies. I enjoy solving problems, building applications that provide great user experiences, and constantly learning new things in web development.
+Hello! I'm **Eugen Yushkevich**, a passionate Software Engineer with a strong background in frontend development, specializing in building dynamic and responsive web applications. With experience in working with real-world APIs, I am focused on delivering efficient and engaging user experiences.
 
 ## 👨‍💻 Technologies & Tools
 
-- **HTML5**
-- **CSS3 / SCSS**
-- **JavaScript (ES6+)**
-- **React**
-- **Bootstrap**
-- **Git / GitHub**
-- **API Integration**
+- **Frontend**: React.js, Vue.js, Sass, Bootstrap, TypeScript, JavaScript, HTML5, CSS3
+- **Backend**: Python, C#, PHP, SQL
+- **Tools**: Git, npm, API integration, RESTful services
+- **Other Skills**: Component-based architecture, problem-solving, and collaboration in English (B1 level)
 
 ## 🌟 Projects
 
@@ -31,6 +28,7 @@ A classic "Rock, Paper, Scissors" game built with JavaScript, HTML, and CSS. The
 ## 🔗 Let's Connect
 
 - **GitHub**: [eugenyush](https://github.com/eugenyush)
-- **Email**: eugenyushkevich@gmail.com
+- **Email**: yushkevicheugen@gmail.com
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/eugenyush)
 
 Thanks for visiting my GitHub profile!
