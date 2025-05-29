@@ -4,7 +4,7 @@ Hello! I'm **Eugen Yushkevich**, a passionate Software Engineer with a strong ba
 
 ## 👨‍💻 Technologies & Tools
 
-- **Frontend**: React.js, Vue.js, Sass, Bootstrap, TypeScript, JavaScript, HTML5, CSS3
+- **Frontend**: React.js,NextJs, Vue.js, Sass, Bootstrap,Tailwindcss, TypeScript, JavaScript, HTML5, CSS3
 - **Backend**: Python, C#, PHP, SQL
 - **Tools**: Git, npm, API integration, RESTful services
 - **Other Skills**: Component-based architecture, problem-solving, and collaboration in English (B1 level)
